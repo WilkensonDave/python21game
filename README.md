@@ -9,35 +9,35 @@
 # users can not enter more than 3 numbers at the same time.
 
 
-Would you like to play the 21 game? (Yes/No)
-> yes
-Enter F if you want to play first. 
-Enter S if you want to play second.
+# Would you like to play the 21 game? (Yes/No)
+ > yes
+# Enter F if you want to play first. 
+# Enter S if you want to play second.
 > f
-Choose a level (hard/easy)
-> hard
-How many number you want to enter?: 2
-Enter your values.
-> 1
-> 2
-The array after the computer's choice is [1, 2, 3, 4]
-How many number you want to enter?: 1
-Enter your values.
-> 5
-The array after the computer's choice is [1, 2, 3, 4, 5, 6, 7, 8]
-How many number you want to enter?: 2
-Enter your values.
-> 9
-> 10
-The array after the computer's choice is [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]
-How many number you want to enter?: 1
-Enter your values.
+# Choose a level (hard/easy)
+ > hard
+# How many number you want to enter?: 2
+# Enter your values.
+ > 1
+ > 2
+# The array after the computer's choice is [1, 2, 3, 4]
+# How many number you want to enter?: 1
+# Enter your values.
+ > 5
+# The array after the computer's choice is [1, 2, 3, 4, 5, 6, 7, 8]
+# How many number you want to enter?: 2
+# Enter your values.
+ > 9
+ > 10
+# The array after the computer's choice is [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]
+# How many number you want to enter?: 1
+# Enter your values.
 > 13
-The array after the computer's choice is [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16]
-How many number you want to enter?: 2
-Enter your values.
+# The array after the computer's choice is [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16]
+# How many number you want to enter?: 2
+# Enter your values.
 > 17
 > 18
-The array after the computer's choice is [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20]
-User loses.
-You lose. Try again!!
+# The array after the computer's choice is [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20]
+# User loses.
+# You lose. Try again!!
